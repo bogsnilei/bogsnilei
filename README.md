@@ -1,61 +1,129 @@
-# 👋 Hello, I'm **Charlie Arejola**
+# Charlie Arejola
 
-**Information Technology Student** | **Aspiring to work with Cloud** | **Passionate Learner**
+**Software Developer | Web & Backend Development | Information Technology**
 
-Passionate and detail-oriented student ready to apply programming and design skills to real projects. Looking for internships or entry-level roles in **Networking**, **Web Development**, **Software Engineering**, or **Cloud Computing**.
+I’m an Information Technology developer with experience building web applications, backend systems, database solutions, and automated workflows through academic projects and industry internships.
 
----
-
-## 💼 Internships & Campus Experience
-
-**Full Stack – Web Development & UI/UX Design**  
-**Denso Ten Solutions Philippines Corporation** | *July 2025 – September 2025*  
-- Gained hands-on experience with real-world development workflows, Git version control, and agile practices  
-- Collaborated with two fellow interns to develop an internal Evaluation Management System  
-- Used **Laravel** and **Vite** to build a responsive, modular web application with a clean UI/UX  
-- Worked under the guidance of a Senior Developer to implement features using **PHP** and **Blade templating**
+I enjoy learning new technologies, solving practical problems, and building applications from development to deployment.
 
 ---
 
-## 📂 Projects
+## <img src="https://cdn.simpleicons.org/briefcase" width="20" height="20" alt="Experience"/> Experience
 
-**AI with custom Personality**  
-A web-based AI integrated with **Gemini AI** and customized personality. The project was originally made for my girlfriend and has audio playback capabilities. It uses **Supabase** as its backend and **Vercel** for deployment.
+### Full Stack Laravel Developer Intern
 
----
+**DENSO TEN Solutions Philippines Corporation**  
+*July 2025 – September 2025*
 
-## 🛠️ Skills & Technologies
+- Developed a web-based **Evaluation Management System** for internal project management.
+- Designed and implemented an efficient database structure for the application.
+- Collaborated with software engineers and fellow interns to develop and deliver assigned features.
+- Worked with **Laravel, PHP, Blade, SQL, Git, and web application development workflows**.
 
-**Languages:**  
-`JavaScript` | `PHP` | `Python` | `HTML/CSS` | `SQL`
+### Hardware Technical Support Intern
 
-**Frameworks & Libraries:**  
-`Laravel` | `React (basic)` | `Bootstrap`
+**CONDOR POS SOLUTIONS RP INC**  
+*March 2026 – May 2026*
 
-**Tools & Platforms:**  
-`Git & GitHub` | `VS Code` | `Supabase` | `Vercel`
-
-**Concepts:**  
-`Responsive Design` | `REST APIs` | `UI/UX Design Thinking`
-
----
-
-## 🎓 Education
-
-**Diploma in Information Technology**  
-**Polytechnic University of the Philippines**  
-*Expected Graduation: September, 2026*  
-Relevant Coursework: *Data Structures, Web Development, Databases, Software Engineering, Database*
+- Assembled and configured POS computer systems.
+- Installed and configured **Microsoft SQL Server** database environments.
+- Installed and deployed POS systems at customer branches.
+- Provided on-site technical assistance and client support.
 
 ---
 
-## 📫 Contact Me
+## <img src="https://cdn.simpleicons.org/github" width="20" height="20" alt="Projects"/> Projects
 
-- 📧 Email: **charliearejola@gmail.com**  
-- 🔗 LinkedIn: [linkedin.com/in/charliearejola](https://www.linkedin.com/in/charliearejola)
+### BeautyBook Pro — Appointment Management System
+
+A web-based salon appointment and booking platform developed as a capstone project.
+
+**Technologies:** `React` `Laravel/PHP` `SQL` `REST APIs` `Git` `CI/CD`
+
+- Developed appointment and booking functionality using React.
+- Implemented appointment logging and management features.
+- Created automated **CRON jobs** for appointment reminders.
+- Integrated an **SMS API** for authentication and notifications.
+- Integrated **Brevo** for email-based authentication and appointment notifications.
+- Used Git-based development workflows and CI/CD for application deployment.
+
+### AI Personality Web Application
+
+A web application integrating **Gemini AI** with a customized conversational personality and audio playback capabilities.
+
+**Technologies:** `JavaScript` `Gemini AI` `Supabase` `Vercel`
+
+- Integrated Gemini AI for conversational responses.
+- Implemented a customized AI personality.
+- Used Supabase for backend data management.
+- Deployed the application through Vercel.
 
 ---
 
-> “**Make it work, then make it right**”
+## <img src="https://cdn.simpleicons.org/python" width="20" height="20" alt="Currently Exploring"/> Currently Exploring
 
-Thanks for visiting my profile! Let’s build something awesome together.
+I’m currently expanding my skills in backend and software engineering, with a focus on:
+
+- **Python & FastAPI**
+- **REST API development**
+- **PostgreSQL**
+- **React & React Native**
+- **Background jobs and asynchronous processing**
+- **Cloud deployment**
+- **AI integrations**
+- **System architecture and scalability**
+
+---
+
+## <img src="https://cdn.simpleicons.org/codecademy" width="20" height="20" alt="Skills"/> Skills & Technologies
+
+### Languages
+
+`JavaScript` `TypeScript` `PHP` `Python` `SQL` `Java` `C` `C++`
+
+### Web & Backend
+
+`React` `Laravel` `PHP` `REST APIs` `HTML/CSS`
+
+### Databases
+
+`MySQL` `PostgreSQL` `Microsoft SQL Server` `Supabase`
+
+### DevOps & Infrastructure
+
+`Git` `GitHub` `CI/CD` `Linux` `Deployment` `Server Management`
+
+### Cloud & Automation
+
+`AWS` `GCP` `n8n`
+
+### Other
+
+`Figma` `UI/UX` `Networking` `POS Systems`
+
+---
+
+## <img src="https://cdn.simpleicons.org/googlescholar" width="20" height="20" alt="Education"/> Education
+
+### Diploma in Information Technology
+
+**Polytechnic University of the Philippines**
+
+*Expected Graduation: September 2026*
+
+Relevant coursework:
+
+`Data Structures` • `Web Development` • `Databases` • `Software Engineering`
+
+---
+
+## <img src="https://cdn.simpleicons.org/maildotru" width="20" height="20" alt="Contact"/> Contact
+
+- **Email:** [charliearejola@gmail.com](mailto:charliearejola@gmail.com)
+- **LinkedIn:** [linkedin.com/in/charliearejola](https://www.linkedin.com/in/charliearejola)
+
+---
+
+> **"Make it work, then make it right."**
+
+Thanks for visiting my profile.
