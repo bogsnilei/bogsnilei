@@ -47,17 +47,6 @@ A web-based salon appointment and booking platform developed as a capstone proje
 - Integrated **Brevo** for email-based authentication and appointment notifications.
 - Used Git-based development workflows and CI/CD for application deployment.
 
-### AI Personality Web Application
-
-A web application integrating **Gemini AI** with a customized conversational personality and audio playback capabilities.
-
-**Technologies:** `JavaScript` `Gemini AI` `Supabase` `Vercel`
-
-- Integrated Gemini AI for conversational responses.
-- Implemented a customized AI personality.
-- Used Supabase for backend data management.
-- Deployed the application through Vercel.
-
 ---
 
 ## <img src="https://cdn.simpleicons.org/python" width="20" height="20" alt="Currently Exploring"/> Currently Exploring
