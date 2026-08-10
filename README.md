@@ -32,7 +32,7 @@ I enjoy learning new technologies, solving practical problems, and building appl
 
 ---
 
-## <img src="https://cdn.simpleicons.org/github" width="20" height="20" alt="Projects"/> Projects
+## <img src="https://cdn.simpleicons.org/git" width="20" height="20" alt="Projects"/> Projects
 
 ### BeautyBook Pro — Appointment Management System
 
