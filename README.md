@@ -8,7 +8,7 @@ I enjoy learning new technologies, solving practical problems, and building appl
 
 ---
 
-## <img src="https://cdn.simpleicons.org/briefcase" width="20" height="20" alt="Experience"/> Experience
+## <img src="https://cdn.simpleicons.org/codio" width="20" height="20" alt="Experience"/> Experience
 
 ### Full Stack Laravel Developer Intern
 
@@ -75,7 +75,7 @@ I’m currently expanding my skills in backend and software engineering, with a 
 
 ---
 
-## <img src="https://cdn.simpleicons.org/codecademy" width="20" height="20" alt="Skills"/> Skills & Technologies
+## <img src="https://cdn.simpleicons.org/dotenv" width="20" height="20" alt="Skills"/> Skills & Technologies
 
 ### Languages
 
